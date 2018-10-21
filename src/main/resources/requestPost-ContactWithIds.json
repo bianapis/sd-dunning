@@ -1,0 +1,15 @@
+{
+  "dunningContactReference" : "87567",
+  "paymentTransactionReference" : "7553",
+  "dunningContactLog" : "5684",
+  "transactionValueDate" : "09/09/2018",
+  "dunningAnalysisReference" : "4657",
+  "dunningContactResult" : "success",
+  "dunningReference" : "76439839",
+  "productInstanceReference" : "84656",
+  "customerReference" : "567",
+  "dunningMessagescript" : "567",
+  "transactionAmount" : "$1000",
+  "loanStatus" : "active",
+  "dunningContactSchedule" : "5687"
+}
